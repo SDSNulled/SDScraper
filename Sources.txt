@@ -3,11 +3,6 @@ https://premproxy.com/list/
 https://premproxy.com/list/02.htm
 https://premproxy.com/list/03.htm
 https://premproxy.com/list/04.htm
-http://aliveproxy.com/high-anonymity-proxy-list/
-http://aliveproxy.com/proxy-list-port-80/
-http://aliveproxy.com/proxy-list-port-8080/
-http://aliveproxy.com/proxy-list-port-81/
-http://aliveproxy.com/proxy-list-port-8000/
 http://atomintersoft.com/anonymous_proxy_list
 http://atomintersoft.com/high_anonymity_elite_proxy_list
 http://atomintersoft.com/products/alive-proxy/proxy-list/3128
