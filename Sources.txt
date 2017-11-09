@@ -19,3 +19,4 @@ https://www.my-proxy.com//free-proxy-list.html
 http://www.proxylists.net/
 http://proxysearcher.sourceforge.net/Proxy%20List.php?type=http
 http://www.proxyserverlist24.top/feeds/posts/default
+https://freevpn.ninja/free-proxy/txt
